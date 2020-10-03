@@ -1,0 +1,20 @@
+[
+    {
+        "temperature": "27",
+        "weather_icons": "https://i.pinimg.com/originals/77/0b/80/770b805d5c99c7931366c2e84e88f251.png",
+        "wind_speed": "39.55N",
+        "precip": "rain"
+    },
+    {
+        "temperature": "32",
+        "weather_icons": "https://www.iconfinder.com/data/icons/weather-429/64/weather_icons_color-14-512.png",
+        "wind_speed": "39.55N",
+        "precip": "rain"
+    },
+    {
+        "temperature": "30",
+        "weather_icons": "https://cdn1.vectorstock.com/i/1000x1000/53/35/sunny-weather-icon-vector-21015335.jpg",
+        "wind_speed": "39.55N",
+        "precip": "rain"
+    }
+]

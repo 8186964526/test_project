@@ -1,0 +1,27 @@
+[
+    {
+        "capital": "Beijing",
+        "population": "14,200,004",
+        "lat": "39.55N",
+        "long": "116.20E",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+    },
+    {
+       
+        "capital": "New Delhi",
+        "population": "21,542,000",
+        "lat": "28.37N",
+        "long": "77.13E",
+        "flag": "https://3.imimg.com/data3/BG/TI/IMVENDOR-2996011/admin-uploadfiles-flag-26-500x500.jpg"
+
+    },
+    {
+        
+        "capital": "Tokyo",
+        "population": "13,929,286",
+        "lat": "34.28N",
+        "long": "69.11E",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokyo_Prefecture.svg"
+
+    }
+]
